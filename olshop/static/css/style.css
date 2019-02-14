@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300,400,600,700|Roboto');
+
+/* header{
+
+    height: 60px;
+
+} */
+
+#head{
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #1ad1ff;
+}
+
+#main-nav{
+    
+    min-width: 300px;
+    width: 100%;
+   
+}
+
+#main-nav li a{
+    font-family: 'Muli', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #19345E;
+}
+
+
+#main-content{
+    background-color: #1ad1ff;
+    padding-top: 40px;
+
+}
+
+#main-desc{
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+
+#img-desc{
+    padding-top: 15px;
+}
+
+#img-desc1{
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+}
+
+
+/* #border{
+    border: solid 1px black;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+} */
+
+.card{
+    width: 100%;
+    max-width: 600px;
+}
+
+.section{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+
+#title{
+    color: white;
+    font-weight: bold;
+    padding-top: 4px;
+}
+
+#judul{
+    background-color: #0383b2;
+}
